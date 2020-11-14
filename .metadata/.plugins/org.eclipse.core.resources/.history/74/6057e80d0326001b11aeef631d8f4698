@@ -1,0 +1,15 @@
+package live.faciliti.jogodavelha.core;
+
+import live.faciliti.jogodavelha.Constantes;
+
+public class Game {
+	
+	Board board = new Board();
+	Player [] players = new Player[Constantes.SYMBOL_PLAYER.length];
+	
+	
+	public void play() {
+		
+	}
+
+}

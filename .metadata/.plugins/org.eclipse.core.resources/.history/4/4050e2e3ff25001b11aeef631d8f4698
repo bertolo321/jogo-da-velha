@@ -1,0 +1,17 @@
+package live.faciliti.jogodavelha.ui;
+
+public class UI {
+	
+	void printText(String text){
+		System.out.println(text);
+	}
+	
+	void printTextNoNewLine(String text) {
+		System.out.print(text);
+	}
+	
+	void printNewline() {
+		
+	}
+	
+}

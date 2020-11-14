@@ -1,0 +1,29 @@
+package live.faciliti.jogodavelha.core;
+
+import live.faciliti.jogodavelha.Constantes;
+
+public class Board {
+	
+	char [][] matrix = new char[Constantes.BOARD_SIZE] [Constantes.BOARD_SIZE];
+	
+	void clear() {
+		for(int i = 0; i < matrix.length; i++) {
+			for(int j = 0;j < matrix[i].length;j++) {
+				matrix[i][j] = ' ';
+			}
+		}
+	}
+	
+	public void print() {
+		
+	}
+	
+ 	public boolean isfull(){
+		return false;
+	}
+ 	
+ 	public void play(){
+ 		
+ 	}
+	
+}

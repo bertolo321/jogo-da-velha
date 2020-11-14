@@ -1,0 +1,19 @@
+package live.faciliti.jogodavelha.core;
+
+public class Board {
+	
+	char [][] matrix;
+	
+	void clear() {
+		
+	}
+	
+	void print() {
+		
+	}
+	
+ 	boolean isfull(){
+		
+	}
+	
+}

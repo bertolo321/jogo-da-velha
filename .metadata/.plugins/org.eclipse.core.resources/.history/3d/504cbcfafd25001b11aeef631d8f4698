@@ -1,0 +1,13 @@
+package live.faciliti.jogodavelha.core;
+
+public class Game {
+	
+	Board board = new Board();
+	Player [] players = new Player[2];
+	
+	
+	public void play() {
+		
+	}
+
+}

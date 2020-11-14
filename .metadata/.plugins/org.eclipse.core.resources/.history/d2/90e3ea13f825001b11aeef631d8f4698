@@ -1,0 +1,8 @@
+package live.faciliti.jogodavelha.core;
+
+public class Nove {
+
+	int i;
+	int j;
+	
+}
